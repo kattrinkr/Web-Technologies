@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 0 auto;
+}
+
+form {
+    margin: 100px 750px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(59, 80, 67);
+    margin-bottom: 10px;
+}
+
+input {
+    list-style-type: none;
+}
+
+.time {
+    width: 100px;
+    float: left;
+}
+
